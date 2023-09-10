@@ -13,4 +13,4 @@ From PBO obfuscation to P3D file analysis and key management, we've got somethin
 Modding is fun, but it can also be complex and time-consuming. We've curated this toolkit to streamline that process and provide effective solutions to common modding challenges. Whether you're a modding veteran or just starting out, you'll find something useful here.
 
 ### A Small Favor 🌟
-If you find this toolkit useful, please consider giving it a star ⭐ on GitHub. Your support helps us keep the project alive and kickin'!
+If you find this toolkit useful, please consider giving it a star ⭐ on GitHub. 
