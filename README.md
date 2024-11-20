@@ -45,7 +45,7 @@ Find me on Discord: [LinuxPhantom](https://discordapp.com/users/9072839341890846
 ---
 
 ## 🌟 Show Your Support
-If you find these tools helpful, please give this repository a ⭐ on GitHub! Your support helps us continue improving and expanding the tools.
+If you find these tools helpful, please give this repository a ⭐ on GitHub!
 
 ---
 
